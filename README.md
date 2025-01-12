@@ -10,5 +10,5 @@
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Pinterest Para gerar capas
+- Pinterest para escolher capas
 - Capcut para tratar aúdio e adicionar sons de fundo
