@@ -12,3 +12,7 @@
 - Audio gerado pela elevenLabs
 - Pinterest para escolher capas
 - Capcut para tratar aúdio e adicionar sons de fundo
+<p align="center">
+https://github.com/user-attachments/assets/4ab39374-c0b0-404a-9bb0-61d75d4cc480
+
+
